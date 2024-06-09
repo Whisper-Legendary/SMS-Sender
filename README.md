@@ -1,1 +1,12 @@
 # SMS-Sender
+- PlatForms :
+  - InstaGram
+  - FaceBook
+  - TikTok
+  - WhatsApp
+  - SnapChat
+  - 1xbet
+  - LineBet
+  - Twitch
+- Contact :
+  - TeleGram : https://t.me/WHI3PER
